@@ -2,7 +2,6 @@
 // We will have 10 rounds
 #include <iostream>
 #include <string.h>
-#include <fstream>
 #include <stdio.h>
 #include <bits/stdc++.h>
 using namespace std;
